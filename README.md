@@ -1,4 +1,4 @@
-# lab1
+# Continuums Lab
+
 Resources for the Continuums Lab
 
-author: Denis Kramer
